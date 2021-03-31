@@ -1,1 +1,4 @@
 
+[submodule "InshortsAPI"]
+	path = InshortsAPI
+	url = https://github.com/Vaibhav2711/InshortsAPI
