@@ -2,3 +2,6 @@
 [submodule "InshortsAPI"]
 	path = InshortsAPI
 	url = https://github.com/Vaibhav2711/InshortsAPI
+[submodule "image-classifier"]
+	path = image-classifier
+	url = https://github.com/Vaibhav2711/image-classifier
